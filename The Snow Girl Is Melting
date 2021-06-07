@@ -5,11 +5,11 @@
   "author": "土星フジコ",
   "cover": "https://cdn.discordapp.com/attachments/843531995110965338/851475816240250950/01.png",
   "chapters": {
-    "<chapter number>": {
-      "title": "<chapter name>",
-      "volume": "<volume number>",
+    "1": {
+      "title": "1",
+      "volume": "1",
       "groups": {
-        "<group name>": "/proxy/api/imgur/chapter/eEFaZ8S/"
+        "RingHeilgh": "/proxy/api/imgur/chapter/eEFaZ8S/"
       },
       "last_updated": "1616368746"
     }
