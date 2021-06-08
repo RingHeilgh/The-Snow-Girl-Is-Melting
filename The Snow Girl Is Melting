@@ -12,6 +12,14 @@
         "RingHeilgh": "/proxy/api/imgur/chapter/ZqgmqJc/"
       },
       "last_updated": "1616368746"
-    }
+    },
   }
 }
+"<chapter number>": {
+      "title": "<chapter name>",
+      "volume": "<volume number>",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/JE2LDHF/"
+      }
+      "last_updated": "1616368746"
+    }
