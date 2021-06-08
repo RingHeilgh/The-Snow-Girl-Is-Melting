@@ -11,15 +11,15 @@
       "groups": {
         "RingHeilgh": "/proxy/api/imgur/chapter/ZqgmqJc/"
       },
-      "last_updated": "1616368746"
+      "last_updated": "1623187853"
     },
   }
 }
-"<chapter number>": {
-      "title": "<chapter name>",
-      "volume": "<volume number>",
+"2": {
+      "title": "2",
+      "volume": "1",
       "groups": {
-        "<group name>": "/proxy/api/imgur/chapter/JE2LDHF/"
+        "RingHeilgh": "/proxy/api/imgur/chapter/JE2LDHF/"
       }
-      "last_updated": "1616368746"
+      "last_updated": "1623187853"
     }
