@@ -11,15 +11,14 @@
       "groups": {
         "RingHeilgh": "/proxy/api/imgur/chapter/ZqgmqJc/"
       },
-      "last_updated": "1623187853"
-    }
+    },
+       "2": {
+   "title":"",
+   "volume":"",
+   "groups":{
+      "RingHeilgh":"/proxy/api/imgur/chapter/JE2LDHF/"
+   },
+      "last_updated": "1623190728"
+     }
   }
 }
-   "2": {
-      "title": "",
-      "volume": "",
-      "groups": {
-        "RingHeilgh": "/proxy/api/imgur/chapter/JE2LDHF/"
-      },
-      "last_updated": "1616368746"
-    }
